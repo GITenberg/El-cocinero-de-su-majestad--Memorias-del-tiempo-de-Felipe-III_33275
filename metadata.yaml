@@ -1,0 +1,30 @@
+_repo: El-cocinero-de-su-majestad--Memorias-del-tiempo-de-Felipe-III_33275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fernández y González, Manuel
+    aliases:
+    - González, Manuel Fernández y
+    - Fernandez y Gonzalez, Manuel
+    birthdate: 1821
+    deathdate: 1888
+    gutenberg_agent_id: '32605'
+    url: http://www.gutenberg.org/2009/agents/32605
+    wikipedia: http://es.wikipedia.org/wiki/Manuel_Fern%C3%A1ndez_y_Gonz%C3%A1lez
+description: ''
+gutenberg_issued: '2010-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33275'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Martínez Montiño, Francisco, active 16th century -- Fiction'
+title: 'El cocinero de su majestad: Memorias del tiempo de Felipe III'
+url: http://www.gutenberg.org/ebooks/33275
